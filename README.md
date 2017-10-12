@@ -1,0 +1,4 @@
+# CourseManage
+课堂管理系统
+版本一:简单的spring boot项目,settingcourse包中带有基本属性Course类,CourseService类(用List存储数据来代替数据库的功能,一个通过Id获取课程名称的函数),
+以及Application类.junittest包中只有一个TestCourseService类.
