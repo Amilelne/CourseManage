@@ -7,4 +7,4 @@
     + CourseService类(用List存储数据来代替数据库的功能,一个通过Id获取课程名称的函数)
     + Application类
 + junittest包
-    + TestCourseService类(测试了CourseService中的getCouseNameById函数)
+    + TestCourseService类(测试了CourseService中的getCouseNameById函数)
